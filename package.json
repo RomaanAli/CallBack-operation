@@ -1,0 +1,22 @@
+{
+  "name": "callback-operation",
+  "version": "1.0.0",
+  "description": "adding two numbers by callBack function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RomaanAli/CallBack-operation.git"
+  },
+  "keywords": [
+    "callback-addition"
+  ],
+  "author": "romaanali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RomaanAli/CallBack-operation/issues"
+  },
+  "homepage": "https://github.com/RomaanAli/CallBack-operation#readme"
+}
